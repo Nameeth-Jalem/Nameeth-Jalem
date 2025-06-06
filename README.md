@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on SQL and Business Situations
 - 📫 How to reach me ... Find me on LinkedIn
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Nothing kiddo.
+
 
 <!---
 Nameeth-Jalem/Nameeth-Jalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
