@@ -5,6 +5,7 @@
 - 📫 How to reach me ... Find me on LinkedIn
 - 😄 Pronouns: ... He/Him
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nameeth-Jalem&left_color=blue&right_color=green&style=for-the-badge)
 
 <!---
 Nameeth-Jalem/Nameeth-Jalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
